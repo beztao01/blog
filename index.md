@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+[comment]: <> (Text can be **bold**, _italic_, or ~~strikethrough~~.)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Bienvenidos al blog de Fernando Sandoval
 
 [Link to another page](./another-page.html).
 
@@ -10,17 +11,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Titulo 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Este es un párrafo normal que sigue a un encabezado. GitHub es una plataforma de alojamiento de código para colaboración y control de versiones. Le permite a usted y a otras personas trabajar juntos en proyectos desde cualquier lugar.
 
-## Header 2
 
-> This is a blockquote following a header.
+
+## Titulo 2
+
+> Este es un bloquote siguiendo a un cabecera.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Titulo 3
 
 ```js
 // Javascript code with syntax highlighting.

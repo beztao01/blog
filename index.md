@@ -3,7 +3,7 @@ layout: default
 ---
 [comment]: <> (Text can be **bold**, _italic_, or ~~strikethrough~~.)
 
-Bienvenidos al blog de Fernando Sandoval
+# Bienvenidos al blog de Fernando Sandoval
 
 * [Inkscape](./inkscape01.html).
 

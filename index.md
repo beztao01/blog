@@ -5,7 +5,9 @@ layout: default
 
 Bienvenidos al blog de Fernando Sandoval
 
+[Inkscape](./inkscape01.html).
 [Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 

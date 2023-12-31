@@ -7,11 +7,11 @@ layout: default
 
 Una alternativa libre a Illustrator.
 
-Inskcape es una herramienta de código abierta, libre, sirve para diseño vectorial, una alternativa interesante a illustraror, lleva 20 de desarrollo, al momento de escribir estas líneas se encuentra en su version 1.3x en su sitio puedes encotrar noticias, fotos, tutoriales, conexión a sus redes sociales y hasta puedes usar el servicio de feed rss para enterarte de sus nuevas publicaciones.
+Inskcape es una herramienta de código abierta, libre, sirve para diseño vectorial, una alternativa interesante a illustraror, lleva veinte años de desarrollo, al momento de escribir estas líneas se encuentra en su version 1.3x, en su sitio puedes encontrar noticias, fotos, tutoriales, conexión a sus redes sociales y hasta puedes usar el servicio de feed rss para enterarte de sus nuevas publicaciones.
 
 Enlace para descarga:
 [Aqui](https://inkscape.org/es/)
 
-_FSl_
+_fsl_
 
 [Regresar](./)

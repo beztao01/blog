@@ -5,7 +5,10 @@ layout: default
 
 # Bienvenidos al blog de Fernando Sandoval
 
+* [Krita](./krita01.html).
+
 * [Inkscape](./inkscape01.html).
+
 
 * [Link to another page](./another-page.html).
 

@@ -9,7 +9,7 @@ Una alternativa libre a Photoshop.
 
 Krita como su página lo indica, es un programa profesional de pintura digital, gratuito y hecho con código libre, ha sido creado por artistas mismos que desean hacer éstas herramientas accesibles para todos.
 
-![Krita](https://es.wikipedia.org/wiki/Krita#/media/Archivo:Krita_5.0.0_screenshot.png)
+![Krita](https://upload.wikimedia.org/wikipedia/commons/1/15/Krita_5.0.0_screenshot.png)
 
 Se usa para:
 

@@ -7,11 +7,28 @@ layout: default
 
 Una larga lista de videos relacionados con temas de locomoción.
 
-Inskcape es una herramienta de código abierta, libre, sirve para diseño vectorial, una alternativa interesante a illustraror, lleva veinte años de desarrollo, al momento de escribir estas líneas se encuentra en su version 1.3x, en su sitio puedes encontrar noticias, fotos, tutoriales, conexión a sus redes sociales y hasta puedes usar el servicio de feed rss para enterarte de sus nuevas publicaciones.
+Dejo aquí un listado de videos relacionados con temas de locomoción
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+### Weta Digital FEM Simulation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YncZtLaZ6kQ?si=6kEFNs4K053JoVaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+### Muscles Animal Anatomy
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AwWG4-J7K5M?si=H33y8YQ7zgnO952v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+### Animating Horse Walk Cycle
+<iframe width="560" height="315" src="https://www.youtube.com/embed/INQx-Lzs8mU?si=uEO98I5EolvzUCJP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Proyecto final
+### Anatomy In Animation | Darkmane The Werewolf
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kpvjkpuu5QA?si=r4eb7T3GiIXowE4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
 

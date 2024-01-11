@@ -7,7 +7,7 @@ layout: default
 
 Una larga lista de videos relacionados con temas de locomoción.
 
-Dejo aquí un listado de videos relacionados con temas de locomoción
+
 
 ### Weta Digital FEM Simulation
 

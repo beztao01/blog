@@ -16,7 +16,7 @@ Una lista interesante de libros indispensables si quieres dedicarte al dibujo
 
 ### How to draw Manga Vol 2
 
-<iframe src="https://archive.org/embed/MoreHowToDrawMangaVol.2PenningCharacters_201701" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/MoreHowToDrawMangaVol.2PenningCharacters_201701" width="400" height="250" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 _fsl_
 

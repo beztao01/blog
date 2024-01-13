@@ -14,6 +14,10 @@ Una lista interesante de libros indispensables si quieres dedicarte al dibujo
 
 <iframe style="width:400px;height:250px" src="https://online.anyflip.com/ufiik/kgiw/index.html"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 
+### How to draw Manga Vol 2
+
+<iframe src="https://archive.org/embed/MoreHowToDrawMangaVol.2PenningCharacters_201701" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 _fsl_
 
 [regresar](./)

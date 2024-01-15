@@ -8,6 +8,7 @@ layout: default
 * [Locomoción](./locomocion.html).
 * [Krita](./krita01.html).
 * [Inkscape](./inkscape01.html).
+* [Jekyll](./jekyll-01.md).
 
 
 

@@ -12,6 +12,17 @@ Una larga lista de videos relacionados con temas de locomoción.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YncZtLaZ6kQ?si=6kEFNs4K053JoVaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Raptor Walk Cycle animation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-AlEjvsa3TE?si=N3vL75x1x6D_VJ0W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Realistic Elephant Walk Cycle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IGW8zYPxFxE?si=v8zsv-rzMJOiEYCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Toon Boom - Kangaroo Jump Cycle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/32CJJrwgPUQ?si=OOpdQCt9GTv2Ff6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Muscles Animal Anatomy
 
@@ -41,6 +52,9 @@ Una larga lista de videos relacionados con temas de locomoción.
 ### Anatomy In Animation | Darkmane The Werewolf
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpvjkpuu5QA?si=r4eb7T3GiIXowE4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<!-- Agregar zona de libros -- >
 
 
 _fsl_

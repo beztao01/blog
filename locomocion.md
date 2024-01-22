@@ -63,6 +63,18 @@ Una larga lista de videos relacionados con temas de locomoción.
 
 <!-- Agregar zona de libros -- >
 
+<!-- A quien sguir -->
+
+## A quien seguir
+
+### Mich Leeuwe
+
+instagram: https://www.instagram.com/mitchleeuwe/
+
+### Joshua Black
+instagram:  https://www.instagram.com/joshhunterblack/
+
+
 
 _fsl_
 

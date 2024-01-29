@@ -21,6 +21,7 @@ GIMP es un editor de imágenes multiplataforma disponible para GNU/Linux, macOS,
 
 Ya sea diseñador gráfico, fotógrafo, ilustrador o científico, GIMP le proporciona herramientas sofisticadas para realizar su trabajo. Puede mejorar aún más su productividad con GIMP gracias a muchas opciones de personalización y complementos de terceros.
 
+Enlace para descarga:
 [Aquí](https://www.gimp.org/)
 
 ### Krita
@@ -30,13 +31,15 @@ Krita es un programa profesional de pintura digital, gratuito y hecho con códig
 -   Arte conceptual
 -   Pinturas de textura y mate
 -   Ilustraciones e historietas
-- 
+
+Enlace para descarga:
 [Aquí](https://krita.org/es/)
 
 ### Blender
 
 Blender es un programa informático multiplataforma, dedicado especialmente al modelado, iluminación, renderizado, la animación y creación de gráficos tridimensionales. También de composición digital utilizando la técnica procesal de nodos, edición de vídeo, escultura (incluye topología dinámica) y pintura digital.
 
+Enlace para descarga:
 [Aquí](https://www.blender.org/)
 
 

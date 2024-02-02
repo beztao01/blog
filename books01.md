@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-## Libros sobre dibujo anatómico y animacion 
+## Libros sobre dibujo anatómico y animación 
 
 Existen en el mercado una serie de libros enfocados al dibujo anatómico y la animación, les dejo el listado.
 

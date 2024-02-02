@@ -5,7 +5,7 @@ layout: default
 
 # Últimas entradas
 
-* [Libros](./book01.md).
+* [Libros](./books01.md).
 * [Software libre](./libres01.html).
 * [Locomoción](./locomocion.html).
 * [Krita](./krita01.html).

@@ -7,27 +7,26 @@ layout: default
 
 Existen en el mercado una serie de libros enfocados al dibujo anatómico y la animación, les dejo el listado.
 
-Figura it out
+### Figura it out
 Human proportions
 Chistopher Hart
+<a href="https://imgur.com/JvmVS6K"><img src="https://i.imgur.com/JvmVS6K.png" title="source: imgur.com" /></a>
 
-Figura it out
+### Figura it out
 Drawing Essential Poses
 Chistopher Hart
+<a href="https://imgur.com/uKkK3hB"><img src="https://i.imgur.com/uKkK3hB.png" title="source: imgur.com" /></a>
 
-Anatomy
+### Anatomy
 for scultors
 Uldis Zarins & others
+<a href="https://imgur.com/ygDvRJg"><img src="https://i.imgur.com/ygDvRJg.png" title="source: imgur.com" /></a>
 
-Cartoon
+### Cartoon
 Animation
 Preston Blair
+<a href="https://imgur.com/l2wzl0y"><img src="https://i.imgur.com/l2wzl0y.png" title="source: imgur.com" /></a>
 
-
-
-
-Enlace para descarga:
-[Aqui](https://inkscape.org/es/)
 
 _fsl_
 

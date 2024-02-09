@@ -7,7 +7,7 @@ layout: default
 
 Algunos datos para la interfaz usando vectores.
 
-![Vectores](./assets/VectoresKrita.jpg)
+![Vectores](https://imgur.com/C11VUHA)
 
 1. Espacio de trabajo vectorial.
 2. Opciones de la herramienta.

@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [Vector en Krita](./krita02.html).
 * [Libros](./books01.md).
 * [Software libre](./libres01.html).
 * [Locomoción](./locomocion.html).

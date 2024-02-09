@@ -11,7 +11,7 @@ Algunos datos para la interfaz usando vectores.
 
 1. Espacio de trabajo vectorial.
 2. Opciones de la herramienta.
-3. Capa vetorial, no se debe usar capa de pintura.
+3. Capa vectorial, no se debe usar capa de pintura.
 4. Herramienta Curva de Bezier para trazo vectorial.
 
 Krita se caracteriza por ser un lienzo digital, eso no evita que puedas usar las herramientas vectoriales que tiene.

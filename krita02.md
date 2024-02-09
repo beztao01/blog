@@ -7,12 +7,7 @@ layout: default
 
 Algunos datos para la interfaz usando vectores.
 
-
-![Krita](https://upload.wikimedia.org/wikipedia/commons/1/15/Krita_5.0.0_screenshot.png)
-
 ![vectores02](https://i.imgur.com/C11VUHA.jpg)
-
-![Vectores](https://imgur.com/C11VUHA.jpg)
 
 1. Espacio de trabajo vectorial.
 2. Opciones de la herramienta.
@@ -21,9 +16,9 @@ Algunos datos para la interfaz usando vectores.
 
 Krita se caracteriza por ser un lienzo digital, eso no evita que puedas usar las herramientas vectoriales que tiene.
 
-Puedes cambiar el espacio de trabajo para usarlo en modo vectorial, te ofrece una serie de herramientas vectoriales para contorno y relleno que puedes cambiar en cualquier momento.
+Puedes cambiar el espacio de trabajo para usarlo hay uno especifico para tal proposito, llamda big vector, con las clasicas herramientas para contorno y relleno que puedes cambiar en cualquier momento.
 
-Para trabajar en modo vectorial tienes si o si que usar la capa vectorial.
+tienes que usar forzosamente la capa vectorial.
 
 Para hacer trazos libres tienes las herramienta curva de Bezier.
 

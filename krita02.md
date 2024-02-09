@@ -17,11 +17,11 @@ Algunos datos para la interfaz usando vectores.
 
 Krita se caracteriza por ser un lienzo digital, eso no evita que puedas usar las herramientas vectoriales que tiene.
 
-Puedes cambiar el espacio de trabajo para usarlo hay uno especifico para tal proposito, llamda big vector, con las clasicas herramientas para contorno y relleno que puedes cambiar en cualquier momento.
+Puedes cambiar el espacio de trabajo para usarlo hay uno específico para tal proposito, llamda big vector, con las clásicas herramientas para contorno y relleno que puedes cambiar en cualquier momento.
 
 tienes que usar forzosamente la capa vectorial.
 
-Para hacer trazos libres tienes las herramienta curva de Bezier.
+Para hacer trazos libres tienes la herramienta curva de Bezier.
 
 _fsl_
 

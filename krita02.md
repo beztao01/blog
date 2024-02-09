@@ -19,7 +19,7 @@ Krita se caracteriza por ser un lienzo digital, eso no evita que puedas usar las
 
 Puedes cambiar el espacio de trabajo para usarlo hay uno específico para tal proposito, llamda big vector, con las clásicas herramientas para contorno y relleno que puedes cambiar en cualquier momento.
 
-tienes que usar forzosamente la capa vectorial.
+Tienes que usar forzosamente la capa vectorial.
 
 Para hacer trazos libres tienes la herramienta curva de Bezier.
 

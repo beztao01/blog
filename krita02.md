@@ -10,9 +10,9 @@ Algunos datos para la interfaz usando vectores.
 
 ![Krita](https://upload.wikimedia.org/wikipedia/commons/1/15/Krita_5.0.0_screenshot.png)
 
-[vectores02](https://i.imgur.com/C11VUHA.jpg)
+![vectores02](https://i.imgur.com/C11VUHA.jpg)
 
-![Vectores](https://imgur.com/C11VUHA)
+![Vectores](https://imgur.com/C11VUHA.jpg)
 
 1. Espacio de trabajo vectorial.
 2. Opciones de la herramienta.

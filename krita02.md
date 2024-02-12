@@ -24,7 +24,7 @@ Tienes que usar forzosamente la capa vectorial.
 Para hacer trazos libres tienes la herramienta curva de Bezier.
 
 
-##Gráficos vectoriales
+## Gráficos vectoriales.
 
 Krita 4.0 ha tenido una reescritura masiva de las herramientas vectoriales. Aquí hay una página que explica las herramientas vectoriales:
 
@@ -32,7 +32,7 @@ Krita 4.0 ha tenido una reescritura masiva de las herramientas vectoriales. Aqu�
 
 Krita es principalmente una herramienta de edición de gráficos rasterizados, lo que significa que la mayor parte de la edición cambia los valores de los píxeles en la trama que compone la imagen.
 
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+
 
 ![Pincel](https://docs.krita.org/fr/_images/Pixels-brushstroke.png)
 
@@ -42,6 +42,7 @@ Por otro lado, los gráficos vectoriales utilizan las matemáticas para describi
 Por un lado, esto hace que los gráficos vectoriales sean ideales para logotipos y pancartas. Por otro lado, los gráficos rasterizados son mucho más fáciles de editar, por lo que los vectores tienden a ser el dominio del diseño deliberado, que utiliza mucha precisión.
 
 ### Herramientas para hacer formas.
+
 Puede comenzar a crear gráficos vectoriales creando primero una capa vectorial (presione el botón de flecha al lado de + en la ventana acoplable de capas para obtener tipos de capas adicionales). Luego, se pueden utilizar todas las herramientas de dibujo habituales fuera de Mano alzada, Dinámica y Multipincel para dibujar formas.
 
 Las herramientas Trazado y Polilínea son las herramientas que utiliza con más frecuencia en una capa vectorial, ya que le permiten crear las formas más dinámicas.
@@ -87,7 +88,7 @@ En la herramienta Editar forma , puede moverse por los nodos en el lienzo para o
 ### Trabajando junto con otros programas.
 Una de las grandes cosas que trajo Krita 4.0 fue el paso ODGde SVG. Lo que esto significa es que Krita guarda como archivos SVGinternos KRA, y eso significa que Krita puede abrirse SVGsin problemas. Esto es importante ya que SVGes el formato vectorial más popular.
 
-### paisaje de tinta.
+### Inkscape.
 Puede copiar y pegar vectores de Krita a Inkscape, o de Inkscape a Krita. Solo se admiten las funciones, con excepción de funciones más pequeñas como los degradados de malla.SVG 1.1
 
 

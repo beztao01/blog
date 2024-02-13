@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Dibujar cabezas rápidamente mátodo loomis
+## Dibujar cabezas rápidamente método loomis
 
 El youtuber Proko, no deja una serie de videos relacionadoss a como dibujar de manera rápida cabezas usando el metodo del autor Andrew Loomis
 

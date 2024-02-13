@@ -18,6 +18,12 @@ Tercera parte
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9LOUHmPhS8?si=FkA0KG6lpyD2O3zB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+### buskenArt 
+
+Nos muesta además del método de Loomis el de Reilly y el de Asaro
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zs6qlFoPUJs?si=0YH7RtSzW_7FhFIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 _yay_
 
 [back](./)

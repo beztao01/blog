@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [Freecad](./freecad01.md).
 * [Vector en Krita](./krita02.html).
 * [Libros](./books01.md).
 * [Software libre](./libres01.html).
@@ -13,9 +14,7 @@ layout: default
 * [Inkscape](./inkscape01.html).
 * [Jekyll](./jekyll-01.md).
 
-La proxima entrada va a ser sobre Jekyll, la herramienta con la que puedes generar sitios estaticos y que pueden ser alojados en Github, primero colocare aquí los temas soportados.
 
-[https://pages.github.com/themes/](https://pages.github.com/themes/)
 
   
 

@@ -2,12 +2,13 @@
 layout: default
 ---
 
-## Jekyll en github
+## Jekyll en Github
 
-Según Wikipedia Jekyll es un generador simple para sitios web estáticos con capacidades de blog, adecuados para sitios web personales de proyectos o de organización.
+Según Wikipedia Jekyll es un generador simple para sitios web estáticos con capacidades de blog, adecuados para webs personales de proyectos o de organizaciones.
 
-En el siguiente enlace
-https://pages.github.com/themes/ tienes una presentación de los distintos temas que son soportados en Github
+En el siguiente enlace:
+[https://pages.github.com/themes/](https://pages.github.com/themes/) tienes una presentación de los distintos temas que son soportados en Github
+
 
 _FSL_
 

@@ -6,9 +6,13 @@ layout: default
 
 Diagrama de la pieza a desarrollar.
 
-![Plano](https://i.imgur.com/wFPwwJT.png)
+[comment]: <> (diagrama de la pieza a desarrollar)
 
-Para ocultar las unidades en Freecad
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/t69R6gW"  ><a href="//imgur.com/a/t69R6gW">Plano de freecad</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+### Para ocultar las unidades en Freecad
+
+En esta captura de pantalla te muestro con activar la opción para ocultar las unidades en la cotas. 
 
 [comment]: <> (imagen de las como ocultar las unidades en el croquizado en Freecad)
 

@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [Poses] (./poses01.md).
 * [Freecad](./freecad01.md).
 * [Vector en Krita](./krita02.html).
 * [Libros](./books01.md).

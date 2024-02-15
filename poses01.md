@@ -12,6 +12,15 @@ layout: default
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/y1AOKWm"  ><a href="//imgur.com/a/y1AOKWm">X-BOT dancing</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-_yay_
+### X-BOT-Ballerina
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/5Qd6BVF"  ><a href="//imgur.com/a/5Qd6BVF">X-BOT Ballerina</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+### Y-BOT Breakdance
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/g92NHdu"  ><a href="//imgur.com/a/g92NHdu">Y-BOT BREAKDANCE</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+_fsl_
 
 [back](./)

@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [Dibujo de cabeza](./dibujo-02.md).
 * [Poses](./poses01.md).
 * [Freecad](./freecad01.md).
 * [Vector en Krita](./krita02.html).

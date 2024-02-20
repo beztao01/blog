@@ -30,11 +30,15 @@ layout: default
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/bpw8JvV"  ><a href="//imgur.com/a/bpw8JvV">Female Fight 02</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Castle Guard
-![Imgur](https://i.imgur.com/iGTE1oR.png)
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="iGTE1oR"  ><a href="//imgur.com/iGTE1oR">Castle guard</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 ### Paladin
 
-![Imgur](https://i.imgur.com/vBaxsoN.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/lEJauvp"  ><a href="//imgur.com/a/lEJauvp">Paladin</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
 
 
 

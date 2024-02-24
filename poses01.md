@@ -39,6 +39,13 @@ layout: default
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/lEJauvp"  ><a href="//imgur.com/a/lEJauvp">Paladin</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
+### Y-BOT Front
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/yYPV6u0"  ><a href="//imgur.com/a/yYPV6u0">Y-bot front</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+### X-BOT Front
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/uY4I8FL"  ><a href="//imgur.com/a/uY4I8FL">X-Bot front</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 

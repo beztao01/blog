@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [Escultura en blender](./escultura.md)
 * [Dibujo de cabeza](./dibujo-02.md).
 * [Poses](./poses01.md).
 * [Freecad](./freecad01.md).

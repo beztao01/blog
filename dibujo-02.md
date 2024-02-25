@@ -17,4 +17,4 @@ Una serie de videos relacionados con el dibujo de la cabeza humana.
 
 _fsl_
 
-[back](./)
+[Regresar](./)

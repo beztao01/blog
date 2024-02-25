@@ -20,4 +20,4 @@ Una lista interesante de libros indispensables si quieres dedicarte al dibujo
 
 _fsl_
 
-[regresar](./)
+[Regresar](./)

@@ -15,6 +15,12 @@ Una serie de videos relacionados con el dibujo de la cabeza humana.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwC-4TEde_4?si=qn1Z5Xd3kP3O6Tbt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### ¿Mejor que Loomis? Método Reilly Paso a Paso
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwGOYxTwL1c?si=60SFizDWgfiGP1qC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 _fsl_
 
 [Regresar](./)

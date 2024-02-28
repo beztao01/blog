@@ -26,9 +26,17 @@ Para la documentación de este proceso tenemos que tener en cuenta lo siguiente:
 
 8. Debemos tener nuestra primera simulación.
 
+#### Con otros elementos
+
 Ahora empezaremos a probar con otros elementos básicos
 
-Prueba con Sussane
+Ahora con Sussane.
+
+En la pestaña de  Surface Response tenemos dos valores Friction y Bounciness, El primero se refiera a que tan rugosa es una superficie y el otro a la propiedad de rebotar de un objeto.
+
+Para que trabaje de manera adecuada los dos objetos deben tener bounciness tanto el objeto pasivo como el activo.
+
+
 
 
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Física y simulación
+## Física y simulación.
 
 ### Caida libre con Blender 4.0
 

@@ -5,7 +5,8 @@ layout: default
 
 # Últimas entradas
 
-* [Escultura en blender](./escultura.md)
+* [Física con Blender 4.0](./escultura.md)
+* [Escultura en Blender](./escultura.md)
 * [Dibujo de cabeza](./dibujo-02.md).
 * [Poses](./poses01.md).
 * [Freecad](./freecad01.md).

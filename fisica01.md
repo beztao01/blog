@@ -8,7 +8,7 @@ layout: default
 
 Para la documentación de este proceso tenemos que tener en cuenta lo siguiente: la versión a usar de Blender es la 4.0, doy por hecho que ya sabes como descargar e instalar el programa.
 
-#### Arrancamos motores.:rocket:
+#### Arrancamos motores. :rocket:
 
 1. Eliminamos de la escena la cámara y la luz, dejamos por increible que parezca el cubo.
 

@@ -5,7 +5,7 @@ layout: default
 
 # Últimas entradas
 
-* [Física con Blender 4.0](./fisca01.md)
+* [Física con Blender 4.0](./fisica01.md)
 * [Escultura en Blender](./escultura.md)
 * [Dibujo de cabeza](./dibujo-02.md).
 * [Poses](./poses01.md).

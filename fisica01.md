@@ -8,7 +8,7 @@ layout: default
 
 Para la documentación de este proceso tenemos que tener en cuenta lo siguiente: la versión a usar de Blender es la 4.0, doy por hecho que ya sabes como descargar e instalar el programa.
 
-Arrancamos motores.
+#### Arrancamos motores.:rocket:
 
 1. Eliminamos de la escena la cámara y la luz, dejamos por increible que parezca el cubo.
 
@@ -18,9 +18,9 @@ Arrancamos motores.
 
 4. Tanto el cubo como el plano tenemos que agregarle propiedades físicas.
 
-5. Las físicas a emplear son para el plano ** Rigid Body **, del tipo pasivo.
+5. Las físicas a emplear son para el plano **Rigid Body**, del tipo pasivo.
 
-6. Al cubo le agregamos tambien ** Rigid Body **, del tipo activo.
+6. Al cubo le agregamos tambien **Rigid Body**, del tipo activo.
 
 7. Corremos la animación.
 

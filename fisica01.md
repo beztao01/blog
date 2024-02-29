@@ -35,7 +35,9 @@ Ahora con Sussane.
 En la pestaña de  Surface Response tenemos dos valores Friction y Bounciness, El primero se refiera a que tan rugosa es una superficie y el otro a la propiedad de rebotar de un objeto.
 
 Para que trabaje de manera adecuada los dos objetos deben tener bounciness tanto el objeto pasivo como el activo.
+![Fisica](https://youtu.be/7F5_XzmldWc?si=om5uScgyOMv6xdVc)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7F5_XzmldWc?si=kvJLlk8M6eFC9T_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 

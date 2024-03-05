@@ -47,6 +47,18 @@ layout: default
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/uY4I8FL"  ><a href="//imgur.com/a/uY4I8FL">X-Bot front</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+### Little kid
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/B3du6TO"  ><a href="//imgur.com/a/B3du6TO">little kid</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+### Man
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="4in3iTO"  ><a href="//imgur.com/4in3iTO">Man</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+### Woman
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="BUvf2Lr"  ><a href="//imgur.com/BUvf2Lr">Female</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 
 _fsl_

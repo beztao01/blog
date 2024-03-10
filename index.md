@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [Apunte de Maya 2024](./maya01.md)
 * [Física con Blender 4.0](./fisica01.md)
 * [Escultura en Blender](./escultura.md)
 * [Dibujo de cabeza](./dibujo-02.md).

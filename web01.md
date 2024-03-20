@@ -6,16 +6,15 @@ layout: default
 
 Empiezo esta entrada para documentar el proceso de el desarrollo de un portafolio de evidencias usando como pretexto una materia académica, la de optimización de modelos digitales tridimensionales. 
 
-El demo esta aquí [Demo](https://beztao01.github.io/demo/).
+El demo esta [Aquí](https://beztao01.github.io/demo/).
 
-### html 5 básico
+### HTML5 básico
  
-En VSC si tipeas
+En VSC si tipeas:
 
 html:5 emmet te arroja 
 
-`nano`
-
+```html:
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,6 +26,7 @@ html:5 emmet te arroja
     
 </body>
 </html>
+```
 
 _fsl_
 

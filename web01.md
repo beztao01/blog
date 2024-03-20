@@ -31,13 +31,18 @@ Esta es la estructura básica de un documento html, digamos que son los andamios
 
 Desglocemos.
 
-<!DOCTYPE> informa al navegador qué versión de HTML (o XML) se usó para escribir el documento. Doctype es una declaración no una etiqueta. Además, podemos referirnos a ella como "document type declaration" o por las siglas "DTD". (1)
+```html:
+<!DOCTYPE> 
+```
+Informa al navegador qué versión de HTML (o XML) se usó para escribir el documento. Doctype es una declaración no una etiqueta. Además, podemos referirnos a ella como "document type declaration" o por las siglas "DTD". (1)
 
----------------
-(1) https://developer.mozilla.org/es/docs/Glossary/Doctype
+
 
 
 
 _fsl_
 
 [Regresar](./)
+
+---------------
+(1) https://developer.mozilla.org/es/docs/Glossary/Doctype

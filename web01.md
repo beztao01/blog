@@ -12,7 +12,7 @@ El demo esta [Aquí](https://beztao01.github.io/demo/).
  
 En VSC si tipeas:
 html:5 
-emmet te arroja 
+emmet te arroja:
 
 ```html:
 <!DOCTYPE html>
@@ -29,7 +29,7 @@ emmet te arroja
 ```
 Esta es la estructura básica de un documento html, digamos que son los andamios del sitio que vamos a desarrollar.
 
-Desglocemos.
+Desglocemos:
 
 ```html:
 <!DOCTYPE> 

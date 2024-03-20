@@ -8,7 +8,7 @@ Empiezo esta entrada para documentar el proceso de el desarrollo de un portafoli
 
 El demo esta aquí [Demo](https://beztao01.github.io/demo/).
 
-### htnl 5 basico
+### html 5 básico
  
 En VSC si tipeas
 

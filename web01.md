@@ -34,7 +34,7 @@ Desglocemos.
 ```html:
 <!DOCTYPE> 
 ```
-Informa al navegador qué versión de HTML (o XML) se usó para escribir el documento. Doctype es una declaración no una etiqueta. Además, podemos referirnos a ella como "document type declaration" o por las siglas "DTD". ^(1)^
+Informa al navegador qué versión de HTML (o XML) se usó para escribir el documento. Doctype es una declaración no una etiqueta. Además, podemos referirnos a ella como "document type declaration" o por las siglas "DTD". <sup>(1)</sup>
 
 
 

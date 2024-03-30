@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [SoftBody en Blender](./softbody.md)
 * [Apunte para una página web](./web01.md)
 * [Apunte de Maya 2024](./maya01.md)
 * [Física con Blender 4.0](./fisica01.md)

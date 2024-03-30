@@ -67,32 +67,39 @@ Grupo :
 Física ‣ Cuerpo Blando
 
 #### Colección de colisiones
+
 Si se establece, el cuerpo blando colisiona con objetos de la colección, en lugar de utilizar objetos que están en la misma capa.
 
-Objeto
-Fricción
+##### Objeto
+
+###### Fricción
+
 La fricción del medio circundante. Generalmente la fricción amortigua un movimiento. Cuanto mayor es la fricción, más viscoso es el medio. La fricción siempre aparece cuando un vértice se mueve en relación con el medio que lo rodea.
 
-Masa
+###### Masa
+
 Valor de masa para los vértices. Una masa más grande ralentiza la aceleración, excepto en el caso de la gravedad, donde el movimiento es constante independientemente de la masa. Una masa mayor significa una mayor inercia, por lo que frenar con una carrocería blanda también es más difícil.
 
-Punto de control
+###### Punto de control
 Puede pintar pesos y utilizar un grupo de vértices específico para valores de masa.
 
-Simulación
-Velocidad
+##### Simulación
+
+###### Velocidad
+
 Puede controlar la sincronización interna del sistema de cuerpo blando con este valor. Establece la correlación entre la velocidad de cuadros y el tempo de la simulación. Un cuerpo en caída libre debe recorrer una distancia de unos cinco metros en un segundo y viajar a una velocidad de diez metros por segundo.
 
 Puede ajustar la escala de su escena y simulación con esta correlación. Si renderiza con 25 fotogramas por segundo, deberá configurar la Velocidad en 1,3.
 
-Cache
+##### Cache
 
 Referencia
 Grupo :
 Física ‣ Cuerpo blando ‣ Caché
+
 Las simulaciones de física de Soft Body utilizan un sistema unificado para el almacenamiento en caché y el horneado. Consulte la documentación de Particle Cache y General Baking como referencia.
 
-Meta
+##### Meta Goal
 Meta 
 Referencia
 
@@ -103,21 +110,26 @@ Habilitar esto le dice a Blender que use el movimiento de las animaciones (curva
 
 Ver fuerzas exteriores para más detalles.
 
-Grupo de vértices
+###### Grupo de vértices
+
 Utilice un grupo de vértices para permitir ponderaciones de objetivos por vértice (multiplicadas por el objetivo predeterminado ).
 
-Ajustes 
-Rigidez
+##### Ajustes 
+
+###### Rigidez
 La rigidez del resorte para Goal . Un valor bajo crea resortes muy débiles (una “unión” más flexible a la portería), un valor alto crea un resorte fuerte (una “unión” más rígida a la portería).
 
-Mojadura
+###### Mojadura Damping
 El coeficiente de fricción para Goal . Los valores más altos amortiguan el efecto del resorte (pequeña sacudida) y el movimiento pronto finalizará.
 
-Fortalezas 
-Por defecto
+##### Fortalezas 
+
+###### Por defecto
+
 Peso/fuerza objetivo para todos los vértices cuando no se asigna ningún grupo de vértices . Si utiliza un grupo de vértices, el peso de un vértice define su objetivo.
 
-Mínimo máximo
+###### Mínimo máximo
+
 Cuando usa un grupo de vértices, puede usar Mínimo y Máximo para ajustar (fijar) los valores de peso. El peso de vértice más bajo se convertirá en Mínimo , el valor más alto se convertirá en Máximo .
 
 Ajustes

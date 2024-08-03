@@ -53,6 +53,10 @@ Una larga lista de videos relacionados con temas de locomoción.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpvjkpuu5QA?si=r4eb7T3GiIXowE4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Female Standard Walk - Grid Overlay. Animation Reference Body Mechanics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G8Veye-N0A4?si=g5MGSaDHNqdZ1Bcv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Animación
 

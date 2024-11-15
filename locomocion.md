@@ -85,6 +85,14 @@ Una larga lista de videos relacionados con temas de locomoción.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bAQ56_dfOfY?si=crcO-1hYTKdXnnkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Festo BionicBee
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UzRf9y9EWqM?si=nwF-DEBRGvD_czIf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### Festo – BionicWheelBot (English/Deutsch)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jGP5NxcCyjE?si=4PbluFa9i1heL4_D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- Agregar zona de libros -- >
 

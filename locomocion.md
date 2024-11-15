@@ -64,6 +64,14 @@ Una larga lista de videos relacionados con temas de locomoción.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJ2fvvdFc9s?si=eARjYAGeKXfHMyRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### 16 WALK CYCLES - DIFFERENT ATTITUDES
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XDrUs5kMZI?si=ucmflvHGHq5KQ1iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Flying Dragon Animation Cycle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BAUirTdHu28?si=NrzbqkmGd3mxmPs_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <!-- Agregar zona de libros -- >
 

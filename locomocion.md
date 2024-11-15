@@ -72,6 +72,19 @@ Una larga lista de videos relacionados con temas de locomoción.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BAUirTdHu28?si=NrzbqkmGd3mxmPs_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Bird Flight Cycle Animation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7hWiPoJ5GhU?si=p-oYAiwXsLvuRx0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Birds Take Flight - video reference for animators
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJHP6dPjuGY?si=WhgGNlgyHqOLUz1N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### The Butterfly Dragon
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bAQ56_dfOfY?si=crcO-1hYTKdXnnkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <!-- Agregar zona de libros -- >
 

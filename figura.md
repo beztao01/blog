@@ -6,7 +6,7 @@ layout: default
 
 ### Mixamo
 
-Mixamo.(https://www.mixamo.com/#/)
+*[Mixamo.](https://www.mixamo.com/#/)
 
 ### Autodesk
 
@@ -18,16 +18,15 @@ Mixamo.(https://www.mixamo.com/#/)
 
 ### MakeHuman
 
-[https://static.makehumancommunity.org/makehuman.html] (https://static.makehumancommunity.org/makehuman.html)
+*[https://static.makehumancommunity.org/makehuman.html](https://static.makehumancommunity.org/makehuman.html)
 
 ### MetaHuman
 
-[https://www.unrealengine.com/es-ES/metahuman] (https://www.unrealengine.com/es-ES/metahuman)
+*[https://www.unrealengine.com/es-ES/metahuman](https://www.unrealengine.com/es-ES/metahuman)
 
 ### Daz3d
 
-[https://www.daz3d.com/] (https://www.daz3d.com/)
-
+*[https://www.daz3d.com/](https://www.daz3d.com/)
 
 _fsl_
 

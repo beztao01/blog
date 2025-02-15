@@ -8,19 +8,19 @@ layout: default
 
 [https://www.mixamo.com/#/](https://www.mixamo.com/#/)
 
-Sitio en el que encontraras una basta cantidad de personajes y a los cuales les puedes agregar secuencias de animación.
+Sitio en el que encontrarás una basta cantidad de personajes y a los cuales les puedes agregar secuencias de animación.
 
 ### Autodesk
 
 [https://charactergenerator.autodesk.com/](https://charactergenerator.autodesk.com/)
 
-Un Sitio donde puedes generar tus propios personajes y descargarlos en formato FBX. 
+Un sitio donde puedes generar tus propios personajes y descargarlos en formato FBX. 
 
 ### Blender Demo Files
 
 [https://www.blender.org/download/demo-files/](https://www.blender.org/download/demo-files/)
 
-Archivo de ejemplo que tiene blender con una serie de modelos humanoides y esqueletos.
+Archivo de ejemplo que tiene Blender con una serie de modelos humanoides y esqueletos.
 
 ### MakeHuman
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Recopilado de programas para manejo de figura humana
+## Recopilado de programas para manejo de figura humana
 
 ### Mixamo
 
@@ -14,7 +14,7 @@ Sitio en el que encontrarás una basta cantidad de personajes y a los cuales les
 
 [https://charactergenerator.autodesk.com/](https://charactergenerator.autodesk.com/)
 
-Un sitio donde puedes generar tus propios personajes y descargarlos en formato FBX. 
+Un sitio donde puedes generar tus propios personajes y descargarlos en formato FBX.
 
 ### Blender Demo Files
 

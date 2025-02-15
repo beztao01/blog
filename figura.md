@@ -6,7 +6,7 @@ layout: default
 
 ### Mixamo
 
-[https://www.mixamo.com/#/] (https://www.mixamo.com/#/)
+Mixamo.(https://www.mixamo.com/#/)
 
 ### Autodesk
 

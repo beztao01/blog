@@ -10,11 +10,11 @@ Mixamo.(https://www.mixamo.com/#/)
 
 ### Autodesk
 
-[https://charactergenerator.autodesk.com/] (https://charactergenerator.autodesk.com/)
+*[https://charactergenerator.autodesk.com/](https://charactergenerator.autodesk.com/)
 
 ### Blender Demo Files
 
-[https://www.blender.org/download/demo-files/] (https://www.blender.org/download/demo-files/)
+*[https://www.blender.org/download/demo-files/](https://www.blender.org/download/demo-files/)
 
 ### MakeHuman
 

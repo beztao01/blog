@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [Figura Humana](./figura.md).
 * [SoftBody en Blender](./softbody.md)
 * [Apunte para una página web](./web01.md)
 * [Apunte de Maya 2024](./maya01.md)
@@ -20,10 +21,3 @@ layout: default
 * [Krita](./krita01.html).
 * [Inkscape](./inkscape01.html).
 * [Jekyll](./jekyll-01.md).
-
-
-
-  
-
-
-

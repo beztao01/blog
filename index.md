@@ -20,4 +20,5 @@ layout: default
 * [Locomoción](./locomocion.html).
 * [Krita](./krita01.html).
 * [Inkscape](./inkscape01.html).
+* [Equipo de computo](./equipo.md).
 * [Jekyll](./jekyll-01.md).

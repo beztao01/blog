@@ -5,6 +5,7 @@ layout: default
 
 # Últimas entradas
 
+* [Blender addons](./addons-blender.md).
 * [ThreeJS](./threejs.md).
 * [Figura Humana](./figura.md).
 * [SoftBody en Blender](./softbody.md)

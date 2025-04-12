@@ -10,15 +10,15 @@ Para resolverlo dejo una serie de pasos y capturas de pantalla para aclarar el t
 
 En Edit >  Preferences > System tildeamos la opción Allow Online Access que esta en Nerwork
 
-![Allow Online Access](./assets/blenderimg/network.png =80%)
+![Allow Online Access](./assets/blenderimg/network.png =500x)
 
 Después a Get Extensions, en este caso lo que nos interesa es tener el addon F2 que es para eficientar el proceso de hacer caras. En Avilalable no aparece los addons que estan disponibles pero que no estan instalados, en la lupa podemos tipea el nombre, como F2, 
 
-![F2](./assets/blenderimg/f2.png=80%)
+![F2](./assets/blenderimg/f2.png =500x)
 
 Nos vamos a pestana  del Add ons, en la lupa tipeamos F2 y lo tildeamos para activarlo
 
-![Activado](./assets/blenderimg/tildeado.png =80%)
+![Activado](./assets/blenderimg/tildeado.png =500x)
 
 _fsl_
 

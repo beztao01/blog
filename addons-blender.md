@@ -17,7 +17,7 @@ Prueba de escalado de imágenes.
 <picture>
   <source media="(min-width:1080px)" srcset="./assets/blenderimg/network500.png">
   <source media="(min-width:500px)" srcset="./assets/blenderimg/network500.png">
-  <img src="./assets/blenderimg/network500.png" alt="Network" style="width:50%;">
+  <img src="./assets/blenderimg/network500.png" alt="Network" style="width:80%;">
 </picture>
 
 

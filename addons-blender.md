@@ -15,7 +15,7 @@ En Edit >  Preferences > System tildeamos la opción Allow Online Access que est
 Prueba de escalado de imágenes. 
 
 <picture>
-  <source media="(min-width:500px)" srcset="./assets/blenderimg/network500.png">
+  <source media="(min-width:1080px)" srcset="./assets/blenderimg/network500.png">
   <!--<source media="(min-width:465px)" srcset="./assets/blenderimg/f2.png">-->
   <img src="./assets/blenderimg/network.png" alt="Flowers" style="width:auto;">
 </picture>

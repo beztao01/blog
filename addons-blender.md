@@ -32,7 +32,7 @@ Después a Get Extensions, en este caso lo que nos interesa es tener el addon F2
 
 Nos vamos a pestana  del Add ons, en la lupa tipeamos F2 y lo tildeamos para activarlo
 
-![Activado](./assets/blenderimg/tildeado.png )
+
 
 <picture>
   <source media="(min-width:1080px)" srcset="./assets/blenderimg/tildeado.png">
